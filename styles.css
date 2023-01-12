@@ -1,0 +1,40 @@
+body {
+    background-color: #E6E3D3;    
+}
+
+.calculator_button {
+    background-color: white;
+    height: 100px;
+    width: 100px;
+    font-size: 30px;
+}
+
+.ans_button {
+    background-color: orange !important;
+}
+
+#app {
+    text-align: center;
+}
+
+.pagetitle {
+    text-align: center;
+    color: white;
+    margin: 50px;
+    font-size: 50px;
+}
+
+.calculator_head {
+    background-color: white;
+    height: 100px;
+    width: 398px;
+    margin: auto;
+    border-radius: 5px 5px 0 0;
+    border: solid;
+    border-width: thin;
+    font-size: 50px;
+}
+
+[v-cloak] {
+    display: none;
+}
